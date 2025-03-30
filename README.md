@@ -58,6 +58,13 @@ Calculation:
 
 ![exp-8](https://github.com/user-attachments/assets/a0d08fd4-07f2-4529-8761-9df28849046b)
 
+![calculation-1](https://github.com/user-attachments/assets/61ee9e0b-9ff0-4545-a0cf-bd8dc1cfab6c)
+
+![calculation-2](https://github.com/user-attachments/assets/81afc5e8-9639-4cd8-94e9-03ad8f998cae)
+
+![calculation-3](https://github.com/user-attachments/assets/4f1004f9-af00-498d-bfc3-7729c5e44d31)
+
+
 
 Results:
 For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25. Average Codeword Length is : 2.625 Entropy is : 2.625 Efficiency is : 100.0 % Redudancy is : 0.0 Variance is : 0.484.
